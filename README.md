@@ -10,11 +10,11 @@ Bem-vindo ao meu perfil do GitHub! Sou um entusiasta da programação apaixonado
   <img src="https://img.icons8.com/color/48/000000/css3.png"/> CSS
 - Frameworks:
   <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> Node.js,
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="5" height="5"/>  Tailwind CSS
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="24" height="24"/>  Tailwind CSS
 - Outras Ferramentas: 
   <img src="https://img.icons8.com/color/48/000000/git.png"/> Git,
   <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> VS Code,
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" width="5" height="5"/> Azure
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" width="24" height="24"/> Azure
           
 
 ## 🌱 Atualmente Aprendendo
