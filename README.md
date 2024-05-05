@@ -5,16 +5,16 @@ Bem-vindo ao meu perfil do GitHub! Sou um entusiasta da programação apaixonado
 ## 🔧 Tecnologias e Ferramentas
 
 - Linguagens de Programação: 
-  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript"/> JavaScript,
-  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML"/> HTML,
-  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS"/> CSS
+  <img src="https://img.icons8.com/color/48/000000/javascript.png"/> JavaScript,
+  <img src="https://img.icons8.com/color/48/000000/html-5.png"/> HTML,
+  <img src="https://img.icons8.com/color/48/000000/css3.png"/> CSS
 - Frameworks:
-  <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js"/> Node.js,
-  <img src="https://img.icons8.com/color/48/000000/tailwind-css.png" alt="TailWind CSS"/> TailWind CSS
+  <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> Node.js,
+  <img src="https://img.icons8.com/color/48/000000/tailwind-css.png"/> Tailwind CSS
 - Outras Ferramentas: 
-  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git"/> Git,
-  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VS Code"/> VS Code,
-  <img src="https://img.icons8.com/color/48/000000/microsoft-azure.png" alt="Azure"/> Azure
+  <img src="https://img.icons8.com/color/48/000000/git.png"/> Git,
+  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> VS Code,
+  <img src="https://img.icons8.com/color/48/000000/microsoft-azure.png"/> Azure
 
 ## 🌱 Atualmente Aprendendo
 
@@ -22,9 +22,9 @@ Atualmente, estou focado em aprofundar meu conhecimento em desenvolvimento web, 
 
 ## 👨‍💻 Projetos Destacados
 
-- [Projeto Hamburgueria](https://github.com/K1rit03/Projeto-Hamburgueria): Uma aplicação web para gerenciamento de pedidos e cardápio de uma hamburgueria local. Desenvolvido com HTML, CSS e JavaScript, este projeto apresenta uma interface amigável para clientes fazerem pedidos online.
-- [Projeto BikeCity](https://github.com/CP-WEB-BIKECITY/BIKECITY-CP): Uma plataforma online para compartilhamento de rotas e informações sobre ciclismo urbano. Desenvolvido como parte de um projeto colaborativo, este projeto apresenta integração com Node.js e MongoDB para fornecer uma experiência completa aos usuários.
-- [MapSP](https://github.com/K1rit03/MapSp): Uma aplicação para mapeamento de treinos de corrida e ciclismo. Desenvolvido com Leaflet.js e JavaScript, este projeto permite aos usuários rastrearem seus treinos e explorarem novas rotas diretamente no mapa.
+- [<img src="https://img.icons8.com/dusk/64/000000/hamburger.png" width="24"/> Projeto Hamburgueria](https://github.com/K1rit03/Projeto-Hamburgueria): Uma aplicação web para gerenciamento de pedidos e cardápio de uma hamburgueria local. Desenvolvido com HTML, CSS e JavaScript, este projeto apresenta uma interface amigável para clientes fazerem pedidos online.
+- [<img src="https://img.icons8.com/dusk/64/000000/bicycle.png" width="24"/> Projeto BikeCity](https://github.com/CP-WEB-BIKECITY/BIKECITY-CP): Uma plataforma online para compartilhamento de rotas e informações sobre ciclismo urbano. Desenvolvido como parte de um projeto colaborativo, este projeto apresenta integração com Node.js e MongoDB para fornecer uma experiência completa aos usuários.
+- [<img src="https://img.icons8.com/dusk/64/000000/map-pin.png" width="24"/> MapSP](https://github.com/K1rit03/MapSp): Uma aplicação para mapeamento de treinos de corrida e ciclismo. Desenvolvido com Leaflet.js e JavaScript, este projeto permite aos usuários rastrearem seus treinos e explorarem novas rotas diretamente no mapa.
 
 ## 📫 Como Me Encontrar
 
