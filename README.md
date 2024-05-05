@@ -5,16 +5,16 @@ Bem-vindo ao meu perfil do GitHub! Sou um entusiasta da programação apaixonado
 ## 🔧 Tecnologias e Ferramentas
 
 - Linguagens de Programação: 
-  <img src="https://img.icons8.com/color/48/000000/javascript.png"/> JavaScript,
-  <img src="https://img.icons8.com/color/48/000000/html-5.png"/> HTML,
-  <img src="https://img.icons8.com/color/48/000000/css3.png"/> CSS
-- Frameworks:
-  <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> Node.js,
-  <img src="https://img.icons8.com/color/48/000000/tailwind-css.png"/> TailWind CSS
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  ![HTML](https://img.shields.io/badge/-HTML-orange)
+  ![CSS](https://img.shields.io/badge/-CSS-blue)
+- Frameworks e Bibliotecas: 
+  ![Node.js](https://img.shields.io/badge/-Node.js-green)
+  ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-blueviolet)
 - Outras Ferramentas: 
-  <img src="https://img.icons8.com/color/48/000000/git.png"/> Git,
-  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> VS Code,
-  <img src="https://img.icons8.com/color/48/000000/microsoft-azure.png"/> Azure
+  ![Git](https://img.shields.io/badge/-Git-red)
+  ![VS Code](https://img.shields.io/badge/-VS_Code-blue)
+  ![Azure](https://img.shields.io/badge/-Azure-blue)
 
 ## 🌱 Atualmente Aprendendo
 
@@ -22,9 +22,9 @@ Atualmente, estou focado em aprofundar meu conhecimento em desenvolvimento web, 
 
 ## 👨‍💻 Projetos Destacados
 
-- [Projeto Hamburgueria](https://github.com/K1rit03/Projeto-Hamburgueria): Uma aplicação web para gerenciamento de pedidos e cardápio de uma hamburgueria local. Desenvolvido com HTML, CSS e JavaScript, este projeto apresenta uma interface amigável para clientes fazerem pedidos online.
-- [Projeto BikeCity](https://github.com/CP-WEB-BIKECITY/BIKECITY-CP): Uma plataforma online para compartilhamento de rotas e informações sobre ciclismo urbano. Desenvolvido como parte de um projeto colaborativo, este projeto apresenta integração com Node.js e MongoDB para fornecer uma experiência completa aos usuários.
-- [MapSP](https://github.com/K1rit03/MapSp): Uma aplicação para mapeamento de treinos de corrida e ciclismo. Desenvolvido com Leaflet.js e JavaScript, este projeto permite aos usuários rastrearem seus treinos e explorarem novas rotas diretamente no mapa.
+- [Projeto BikeCity](https://github.com/CP-WEB-BIKECITY/BIKECITY-CP): Um projeto de e-commerce para uma loja de bicicletas, desenvolvido como parte do curso "Desenvolvimento Web Completo" da Udemy. 
+- [Projeto Hamburgueria](https://github.com/K1rit03/Projeto-Hamburgueria): Um site responsivo para uma hamburgueria fictícia, criado utilizando HTML, CSS e JavaScript.
+- [MapSP](https://github.com/K1rit03/MapSp): Uma aplicação para mapear treinos de corrida e ciclismo, desenvolvida como parte do curso "The Complete JavaScript Course 2024: From Zero to Expert!".
 
 ## 📫 Como Me Encontrar
 
