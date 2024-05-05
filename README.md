@@ -5,16 +5,16 @@ Bem-vindo ao meu perfil do GitHub! Sou um entusiasta da programação apaixonado
 ## 🔧 Tecnologias e Ferramentas
 
 - Linguagens de Programação: 
-  <img src="https://img.icons8.com/color/48/000000/javascript.png"/> JavaScript,
-  <img src="https://img.icons8.com/color/48/000000/html-5.png"/> HTML,
-  <img src="https://img.icons8.com/color/48/000000/css3.png"/> CSS
+  JavaScript <img src="https://img.icons8.com/color/48/000000/javascript.png"/> JavaScript
+  HTML <img src="https://img.icons8.com/color/48/000000/html-5.png"/> ,
+  CSS  <img src="https://img.icons8.com/color/48/000000/css3.png"/> 
 - Frameworks:
-  <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> Node.js,
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="32" height="32"/>  Tailwind CSS
+Node.js <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="32" heigh="32" />,
+Tailwind CSS <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="32" height="32"/>  
 - Outras Ferramentas: 
-  <img src="https://img.icons8.com/color/48/000000/git.png"/> Git,
-  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> VS Code,
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" width="32" height="32"/> Azure
+Git <img src="https://img.icons8.com/color/48/000000/git.png"/>,
+VS Code <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>,
+Azure <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" width="32" height="32"/> 
           
 
 ## 🌱 Atualmente Aprendendo
