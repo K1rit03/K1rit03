@@ -7,14 +7,16 @@ Bem-vindo ao meu perfil do GitHub! Sou um entusiasta da programação apaixonado
 - Linguagens de Programação: 
   JavaScript <img src="https://img.icons8.com/color/48/000000/javascript.png"/>, 
   HTML <img src="https://img.icons8.com/color/48/000000/html-5.png"/>,
-  CSS  <img src="https://img.icons8.com/color/48/000000/css3.png"/> 
+  CSS  <img src="https://img.icons8.com/color/48/000000/css3.png"/>
+  React <img src="https://img.icons8.com/offices/40/react.png" alt="react" width="40" height="40"/>
 - Frameworks:
 Node.js <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="32" heigh="32" />,
 Tailwind CSS <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40"/>  
 - Outras Ferramentas: 
 Git <img src="https://img.icons8.com/color/48/000000/git.png"/>,
 VS Code <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>,
-Azure <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" width="40" height="40"/> 
+Azure <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" width="40" height="40"/>
+
           
 
 ## 🌱 Atualmente Aprendendo
