@@ -11,7 +11,7 @@ Bem-vindo ao meu perfil do GitHub! Sou um entusiasta da programação apaixonado
    
 - Frameworks:
  Node.js <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="30" heigh="30" />,
- Tailwind CSS <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="30" height="30"/>
+ Tailwind CSS <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="30" height="30"/>,
 React <img src="https://img.icons8.com/offices/40/react.png" alt="react" width="30" height="30"/> 
 - Outras Ferramentas: 
  Git <img src="https://img.icons8.com/color/48/000000/git.png" width="30" height="30"/>,
