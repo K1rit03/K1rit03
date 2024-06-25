@@ -27,7 +27,7 @@ Atualmente, estou focado em aprofundar meu conhecimento em desenvolvimento web, 
 ## 👨‍💻 Projetos Destacados
 
 - [<img src="https://img.icons8.com/dusk/64/000000/hamburger.png" width="24"/> Projeto Hamburgueria](https://github.com/K1rit03/Projeto-Hamburgueria): Uma aplicação web para gerenciamento de pedidos e cardápio de uma hamburgueria local. Desenvolvido com HTML, CSS e JavaScript, este projeto apresenta uma interface amigável para clientes fazerem pedidos online.
-- [<img src="https://img.icons8.com/dusk/64/000000/bicycle.png" width="24"/> Projeto BikeCity](https://github.com/CP-WEB-BIKECITY/BIKECITY-CP): Uma plataforma online para compartilhamento de rotas e informações sobre ciclismo urbano. Desenvolvido como parte de um projeto colaborativo, este projeto apresenta integração com Node.js e MongoDB para fornecer uma experiência completa aos usuários.
+- [<img src="https://img.icons8.com/dusk/64/000000/bicycle.png" width="24"/> Projeto BikeCity](https://github.com/CP-WEB-BIKECITY/BIKECITY-CP): Uma plataforma online para compartilhamento de rotas e informações sobre ciclismo urbano. Desenvolvido como parte de um projeto colaborativo, este projeto apresenta integração com Node.js  para fornecer uma experiência completa aos usuários.
 - [<img src="https://img.icons8.com/dusk/64/000000/map-pin.png" width="24"/> MapSP](https://github.com/K1rit03/MapSp): Uma aplicação para mapeamento de treinos de corrida e ciclismo. Desenvolvido com Leaflet.js e JavaScript, este projeto permite aos usuários rastrearem seus treinos e explorarem novas rotas diretamente no mapa.
 
 ## 📫 Como Me Encontrar
