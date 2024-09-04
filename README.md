@@ -35,5 +35,7 @@ Atualmente, estou focado em aprofundar meu conhecimento em desenvolvimento web, 
 Você pode me encontrar nas seguintes redes sociais:
 
 - [LinkedIn](https://www.linkedin.com/in/thiago-oliveira-884b1128a/)
+- Email: thiagodeboliveira@outlook.com
+
 
 Sinta-se à vontade para explorar meus repositórios e entrar em contato se tiver alguma dúvida ou sugestão!
