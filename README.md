@@ -23,7 +23,7 @@ React <img src="https://img.icons8.com/offices/40/react.png" alt="react" width="
 
 ## 🌱 Atualmente Aprendendo
 
-Atualmente, estou focado em aprofundar meu conhecimento em desenvolvimento web, com ênfase em HTML, CSS e JavaScript. Além disso, estou explorando as possibilidades da plataforma Microsoft Azure e começando a mergulhar em Node.js e React.
+Atualmente, estou focado em aprofundar meu conhecimento em desenvolvimento web, com ênfase em react e JavaScript já quando se trata de backend estou focado em .NET. Além disso, estou explorando as possibilidades da plataforma Microsoft Azure e começando a mergulhar em Node.js.
 
 ## 👨‍💻 Projetos Destacados
 
