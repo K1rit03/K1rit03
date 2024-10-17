@@ -5,7 +5,7 @@ Bem-vindo ao meu perfil do GitHub! Sou um entusiasta da programação apaixonado
 ## 🔧 Tecnologias e Ferramentas
 
 - Linguagens de Programação:
-   Java <img src="https://img.icons8.com/fluency/48/java-coffee-cup-logo.png" width="30" heigh="30"/>,
+   Java <img src="https://img.icons8.com/fluency/48/java-coffee-cup-logo.png" width="35" heigh="35"/>,
    JavaScript <img src="https://img.icons8.com/color/48/000000/javascript.png" width="30" height="30"/>, 
    HTML <img src="https://img.icons8.com/color/48/000000/html-5.png" width="30" height="30"/>,
    CSS  <img src="https://img.icons8.com/color/48/000000/css3.png" width="30" height="30"/>
