@@ -5,7 +5,7 @@ Bem-vindo ao meu perfil do GitHub! Sou um entusiasta da programação apaixonado
 ## 🔧 Tecnologias e Ferramentas
 
 - Linguagens de Programação:
-- .Java <img src="https://img.icons8.com/fluency/48/java-coffee-cup-logo.png" width="30" heigh="30"/>
+   Java <img src="https://img.icons8.com/fluency/48/java-coffee-cup-logo.png" width="30" heigh="30"/>,
    JavaScript <img src="https://img.icons8.com/color/48/000000/javascript.png" width="30" height="30"/>, 
    HTML <img src="https://img.icons8.com/color/48/000000/html-5.png" width="30" height="30"/>,
    CSS  <img src="https://img.icons8.com/color/48/000000/css3.png" width="30" height="30"/>
@@ -13,6 +13,7 @@ Bem-vindo ao meu perfil do GitHub! Sou um entusiasta da programação apaixonado
 - Frameworks/Bibliotecas:
  Node.js <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="30" heigh="30" />,
  Tailwind CSS <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="30" height="30"/>,
+ Spring Boot <img src="https://img.icons8.com/color/48/spring-logo.png" width="30" height="30"/>
 React <img src="https://img.icons8.com/offices/40/react.png" alt="react" width="30" height="30"/> 
 - Outras Ferramentas: 
  Git <img src="https://img.icons8.com/color/48/000000/git.png" width="30" height="30"/>,
