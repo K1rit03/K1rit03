@@ -20,7 +20,7 @@ Welcome to my GitHub profile! I'm a programming enthusiast passionate about expl
     Spring Boot <img src="https://img.icons8.com/color/48/spring-logo.png" width="30" height="30"/>,
     React <img src="https://img.icons8.com/offices/40/react.png" alt="react" width="30" height="30"/>
   
-- Other Tools**: 
+- Other Tools: 
     Git <img src="https://img.icons8.com/color/48/000000/git.png" width="30" height="30"/>,
     VS Code <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" width="30" height="30"/>,
     Azure <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" width="30" height="30"/>,
