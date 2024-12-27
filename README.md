@@ -42,7 +42,7 @@ You can find me on the following social networks:
 
 - [LinkedIn](https://www.linkedin.com/in/thiago-oliveira-884b1128a/)
 - thiagodeboliveira@outlook.com
-- [Portfólio](https://k1rit03.github.io/portf-lio/)
+
 
 Feel free to explore my repositories and get in touch if you have any questions or suggestions!
 
