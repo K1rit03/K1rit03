@@ -32,17 +32,17 @@ I am currently diving deep into **Spring Boot**, with a special focus on **Sprin
 
 ## 👨‍💻 Highlighted Projects
 
-- <img src="https://img.icons8.com/dusk/64/000000/hamburger.png" width="24"/> **Hamburgueria Project**: A web application for managing orders and menu of a local burger joint. Developed with HTML, CSS, and JavaScript, this project features a user-friendly interface for customers to place orders online.
-- <img src="https://img.icons8.com/dusk/64/000000/bicycle.png" width="24"/> **BikeCity Project**: An online platform for sharing routes and information about urban cycling. Developed as part of a collaborative project, this platform integrates with Node.js to provide a complete experience for users.
-- <img src="https://img.icons8.com/dusk/64/000000/map-pin.png" width="24"/> **MapSP**: An application for mapping running and cycling workouts. Developed with Leaflet.js and JavaScript, this project allows users to track their workouts and explore new routes directly on the map.
+- [<img src="https://img.icons8.com/dusk/64/000000/hamburger.png" width="24"/> **Hamburgueria Project**](https://github.com/K1rit03/Projeto-Hamburgueria) A web application for managing orders and menu of a local burger joint. Developed with HTML, CSS, and JavaScript, this project features a user-friendly interface for customers to place orders online.
+- [<img src="https://img.icons8.com/dusk/64/000000/bicycle.png" width="24"/> **BikeCity Project**](https://github.com/CP-WEB-BIKECITY/BIKECITY-CP): An online platform for sharing routes and information about urban cycling. Developed as part of a collaborative project, this platform integrates with Node.js to provide a complete experience for users.
+- [<img src="https://img.icons8.com/dusk/64/000000/map-pin.png" width="24"/> **MapSP**](https://github.com/K1rit03/MapSp):  An application for mapping running and cycling workouts. Developed with Leaflet.js and JavaScript, this project allows users to track their workouts and explore new routes directly on the map.
 
 ## 📫 How to Reach Me
 
 You can find me on the following social networks:
 
-- LinkedIn[https://www.linkedin.com/in/thiago-oliveira-884b1128a/]
+- [LinkedIn](https://www.linkedin.com/in/thiago-oliveira-884b1128a/)
 - thiagodeboliveira@outlook.com
-- Portfolio
+- [Portfólio](https://k1rit03.github.io/portf-lio/)
 
 Feel free to explore my repositories and get in touch if you have any questions or suggestions!
 
