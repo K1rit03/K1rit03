@@ -12,12 +12,14 @@ Welcome to my GitHub profile! I'm a programming enthusiast passionate about expl
    - Java <img src="https://img.icons8.com/fluency/48/java-coffee-cup-logo.png" width="35" heigh="35"/>,
    - JavaScript <img src="https://img.icons8.com/color/48/000000/javascript.png" width="30" height="30"/>, 
    - HTML <img src="https://img.icons8.com/color/48/000000/html-5.png" width="30" height="30"/>,
-   - CSS  <img src="https://img.icons8.com/color/48/000000/css3.png" width="30" height="30"/>   
+   - CSS  <img src="https://img.icons8.com/color/48/000000/css3.png" width="30" height="30"/>
+   - 
 - **Frameworks/Libraries**:
    - Node.js <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="30" heigh="30" />,
    - Tailwind CSS <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="30" height="30"/>,
    - Spring Boot <img src="https://img.icons8.com/color/48/spring-logo.png" width="30" height="30"/>,
-   - React <img src="https://img.icons8.com/offices/40/react.png" alt="react" width="30" height="30"/> 
+   - React <img src="https://img.icons8.com/offices/40/react.png" alt="react" width="30" height="30"/>
+   - 
 - **Other Tools**: 
    - Git <img src="https://img.icons8.com/color/48/000000/git.png" width="30" height="30"/>,
    - VS Code <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" width="30" height="30"/>,
@@ -38,7 +40,7 @@ I am currently diving deep into **Spring Boot**, with a special focus on **Sprin
 
 You can find me on the following social networks:
 
-- LinkedIn
+- LinkedIn[https://www.linkedin.com/in/thiago-oliveira-884b1128a/]
 - thiagodeboliveira@outlook.com
 - Portfolio
 
