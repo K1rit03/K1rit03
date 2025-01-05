@@ -8,13 +8,13 @@ Welcome to my GitHub profile! I'm a programming enthusiast passionate about expl
 
 ## 🔧 Technologies and Tools
 
-- Programming Languages**:
+- Programming Languages:
     Java <img src="https://img.icons8.com/fluency/48/java-coffee-cup-logo.png" width="35" heigh="35"/>,
     JavaScript <img src="https://img.icons8.com/color/48/000000/javascript.png" width="30" height="30"/>, 
     HTML <img src="https://img.icons8.com/color/48/000000/html-5.png" width="30" height="30"/>,
     CSS  <img src="https://img.icons8.com/color/48/000000/css3.png" width="30" height="30"/>
      
-- Frameworks/Libraries**:
+- Frameworks/Libraries:
     Node.js <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="30" heigh="30" />,
     Tailwind CSS <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="30" height="30"/>,
     Spring Boot <img src="https://img.icons8.com/color/48/spring-logo.png" width="30" height="30"/>,
