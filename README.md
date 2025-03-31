@@ -27,8 +27,9 @@ Welcome to my GitHub profile! I'm a programming enthusiast passionate about expl
     Docker <img src="https://img.icons8.com/color/48/000000/docker.png" width="30" height="30"/>
 
 ## 🌱 Currently Learning
+I am currently diving deep into Spring Boot, with a special focus on Spring Security. Additionally, I am expanding my knowledge in Docker and Azure, and practicing data structures and algorithms extensively. This journey is helping me build robust and secure applications while enhancing my problem-solving skills.
 
-I am currently diving deep into **Spring Boot**, with a special focus on **Spring Security**. Additionally, I am expanding my knowledge in **Docker** and **Azure**, and practicing **data structures and algorithms** extensively. This journey is helping me build robust and secure applications while enhancing my problem-solving skills.
+I am also starting a new course about Next.js to prepare for some demands I will probably face at work in the future. This repository will likely stay without regular updates for some time because I'm currently doing a chapter of the course that serves as a React refresher.
 
 ## 👨‍💻 Highlighted Projects
 
